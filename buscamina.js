@@ -1,10 +1,4 @@
-var arre=new Array(64);
 
-
-
-
-		
-  
 var tamanio =64;
 var arre = new Array(tamanio);
 for(i=0;i<tamanio;i++){
