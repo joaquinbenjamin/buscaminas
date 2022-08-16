@@ -1,4 +1,4 @@
-var arre=new Array(16);
+var arre=new Array(64);
 
 
 
