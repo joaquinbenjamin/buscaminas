@@ -1,7 +1,7 @@
 
 body{
 	margin: 0 auto;
-	width: 470px;  
+	width: 460px;  
 	background-color: black; 
   }
   
@@ -19,7 +19,7 @@ body{
   #container {
 	border: 3px solid white;
 	  margin: 0 auto;
-	  height: 450px;
+	  height: 420px;
 	  width: 450px;
 	  display: inline-block;
   
